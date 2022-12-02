@@ -1,4 +1,12 @@
 # Test_React_Trade
+
+# [Ссылка на проект](https://react-trade.vercel.app/)
+
+
+![Скриншот](https://user-images.githubusercontent.com/106379372/205350403-712ce092-02ea-4324-a957-27fb605ef880.png)
+
+Время хода уменьшено до 10 секунд для демонстрации
+
 Задача:
 -------
 
